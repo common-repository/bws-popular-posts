@@ -1,0 +1,166 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: popular_posts\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-07-04 19:31+0300\n"
+"PO-Revision-Date: 2016-07-04 19:34+0300\n"
+"Last-Translator: plugin@bestwebsoft.com <plugin@bestwebsoft.com>\n"
+"Language-Team: BestWebSoft <plugin@bestwebsoft.com>\n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.4\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n%10==1 && n%100!=11) ? 3 : "
+"((n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20)) ? 1 : 2);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../bws-popular-posts.php:34 ../bws-popular-posts.php:163
+msgid "Popular Posts Settings"
+msgstr "Налаштування плагіну Popular Posts"
+
+#: ../bws-popular-posts.php:91
+msgid "Popular Posts"
+msgstr "Popular Posts"
+
+#: ../bws-popular-posts.php:150
+msgid "Settings saved."
+msgstr "Налаштування збережено."
+
+#: ../bws-popular-posts.php:158
+msgid "All plugin settings were restored."
+msgstr "Всі налаштування плагіну було скинуто до стандартних."
+
+#: ../bws-popular-posts.php:165 ../bws-popular-posts.php:562
+#: ../bws-popular-posts.php:576
+msgid "Settings"
+msgstr "Налаштування"
+
+#: ../bws-popular-posts.php:166
+msgid "Custom code"
+msgstr "Користувацький код"
+
+#: ../bws-popular-posts.php:176
+msgid ""
+"If you would like to display popular posts with a widget, you need to add "
+"the widget \"Popular Posts Widget\" in the"
+msgstr ""
+"Якщо ви хочете, щоб популярні пости відображались у віджеті, додайте віджет "
+"\"Віджет Популярних постів\" на вкладцi"
+
+#: ../bws-popular-posts.php:177
+msgid "Widgets"
+msgstr "Віджети"
+
+#: ../bws-popular-posts.php:177
+msgid "tab"
+msgstr " "
+
+#: ../bws-popular-posts.php:180 ../bws-popular-posts.php:428
+msgid "Widget title"
+msgstr "Назва віджету"
+
+#: ../bws-popular-posts.php:186 ../bws-popular-posts.php:432
+msgid "Number of posts"
+msgstr "Кількість постів"
+
+#: ../bws-popular-posts.php:192 ../bws-popular-posts.php:436
+msgid "Do not display the block if posts number is less than"
+msgstr "Не показувати блок, якщо кількість постів менше"
+
+#: ../bws-popular-posts.php:198 ../bws-popular-posts.php:440
+msgid "Excerpt length"
+msgstr "Довжина цитати"
+
+#: ../bws-popular-posts.php:204 ../bws-popular-posts.php:444
+msgid "\"Read more\" text"
+msgstr "Текст для \"Read more\""
+
+#: ../bws-popular-posts.php:210 ../bws-popular-posts.php:448
+msgid "Default image (full URL), if no featured image is available"
+msgstr ""
+"Зображення за замовчуванням (повний URL), якщо у поста не існує зображень"
+
+#: ../bws-popular-posts.php:216 ../bws-popular-posts.php:452
+msgid "Display"
+msgstr "Показувати"
+
+#: ../bws-popular-posts.php:219 ../bws-popular-posts.php:455
+msgid "views number"
+msgstr "кількість переглядів"
+
+#: ../bws-popular-posts.php:220 ../bws-popular-posts.php:459
+msgid "post date"
+msgstr "дату публікації"
+
+#: ../bws-popular-posts.php:221 ../bws-popular-posts.php:463
+msgid "author"
+msgstr "автора"
+
+#: ../bws-popular-posts.php:222 ../bws-popular-posts.php:467
+msgid "featured image"
+msgstr "обране зображення"
+
+#: ../bws-popular-posts.php:234 ../bws-popular-posts.php:471
+msgid "Order by number of"
+msgstr "Сортування за кількістю"
+
+#: ../bws-popular-posts.php:236 ../bws-popular-posts.php:472
+msgid "comments"
+msgstr "коментарів"
+
+#: ../bws-popular-posts.php:237 ../bws-popular-posts.php:473
+msgid "views"
+msgstr "переглядів"
+
+#: ../bws-popular-posts.php:241 ../bws-popular-posts.php:476
+msgid "Display popular posts in accordance with current category"
+msgstr "Відображати популярні повідомлення відповідно до поточної категорії"
+
+#: ../bws-popular-posts.php:248
+msgid "Save Changes"
+msgstr "Зберегти зміни"
+
+#: ../bws-popular-posts.php:271
+msgid "Popular Posts Widget"
+msgstr "Віджет Популярних постів"
+
+#: ../bws-popular-posts.php:272
+msgid "Widget for displaying Popular Posts by comments or views count."
+msgstr ""
+"Віджет для відображення Схожих Постів згідно кількості коментарів чи "
+"переглядів."
+
+#: ../bws-popular-posts.php:358
+msgid "Posted"
+msgstr "Опубліковано"
+
+#: ../bws-popular-posts.php:360
+msgid "on"
+msgstr " "
+
+#: ../bws-popular-posts.php:364
+msgid "by"
+msgstr " автором"
+
+#: ../bws-popular-posts.php:374
+#, php-format
+msgid "one view"
+msgid_plural "%s views"
+msgstr[0] "один перегляд"
+msgstr[1] "%s перегляди"
+msgstr[2] "%s переглядів"
+msgstr[3] "%s перегляд"
+
+#: ../bws-popular-posts.php:577
+msgid "FAQ"
+msgstr "FAQ"
+
+#: ../bws-popular-posts.php:578
+msgid "Support"
+msgstr "Тех.підтримка"
+
+#~ msgid "Posts categories"
+#~ msgstr "Категорії постів"
